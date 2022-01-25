@@ -1,0 +1,53 @@
+body
+{
+    background-color: #379EC1;
+}
+
+#imageLogo
+{
+    margin-top: 5%;
+    margin-left: 42%;
+}
+
+#agents
+{
+    background-color: #659224;
+    border: 3px solid black;
+    margin: 50px 40% 0% 40%;
+    padding: 10px;
+    text-align: center;
+}
+
+a
+{
+    color: black;
+}
+
+#identification
+{
+    position: absolute;
+    border: 3px solid black;
+    margin: 2% 80% 90% 3%;
+    padding: 10px;
+    text-align: center;
+}
+
+#icones
+{
+    position: absolute;
+    right: -50%;
+}
+
+.imageIcone
+{;
+    max-width: 20%;
+    max-height: 20%;
+}
+
+#equipement
+{
+    position: absolute;
+    margin: 20% 40% 0% 40%;
+    padding: 10px;
+    text-align: right;
+}
