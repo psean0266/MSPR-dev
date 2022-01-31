@@ -23,6 +23,11 @@ a
     color: black;
 }
 
+p 
+{
+    font-size: 20px;;
+}
+
 #identification
 {
     position: absolute;
@@ -35,13 +40,14 @@ a
 #icones
 {
     position: absolute;
-    right: -50%;
+    left: 80%;
+    top: 5%;
 }
 
 .imageIcone
-{;
-    max-width: 20%;
-    max-height: 20%;
+{
+    max-width: 80%;
+    max-height: 80%;
 }
 
 #equipement
