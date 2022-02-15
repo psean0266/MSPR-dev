@@ -1,0 +1,7 @@
+AuthName "¨Page d'administration protégée. Merci"
+
+AuthType Basic
+
+AuthUserFile "C:/wamp64/www/SiteWeb/.htpasswd"
+
+Require valid-user
